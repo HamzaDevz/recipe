@@ -1,9 +1,7 @@
 {
-  "name": "recipeLib",
+  "name": "MyPackage",
   "private": "true",
-  "version": "0.1",
   "devDependencies": {
-    "ionic": "driftyco/ionic-bower",
-    "ngCordova": "latest"
+    "ionic": "driftyco/ionic-bower#1.2.4"
   }
 }
